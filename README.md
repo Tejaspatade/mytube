@@ -1,10 +1,27 @@
 # MyTube
 
 This project is a clone of our favorite video content website-Youtube. Fully Fledged with most of the features that youtube provides like search terms/channels/content creators using a searchbar, Play videos with all exact same video controls, Explore channels or browser thrpugh preset categories from the sidebar.
+Explore the site right away!! https://mytube-tejas.netlify.app
+
+![image](https://user-images.githubusercontent.com/70337689/215472300-434a33d9-13c9-45a3-801e-46e53a4a8aa2.png)
+
+### Search Bar to search any channel/video:
+
+![image](https://user-images.githubusercontent.com/70337689/215473014-b69c3967-56ff-4306-96e6-9a6ceb435ea5.png)
+
+### All controls over video playback just like Youtube:
+
+![image](https://user-images.githubusercontent.com/70337689/215473797-27bd7638-685d-4066-9a16-33b00e9d2f09.png)
+
+### Mobile Responsive thanks to Material UI:
+
+![image](https://user-images.githubusercontent.com/70337689/215474365-8e3581ad-7f50-4692-b9b1-45a875dcc0ca.png)
 
 ## Implementation Details
 
 Implemented Using React.js Library following all industry standard latest features and conventions such as functional components, hooks, props, etc. Used React-Router-DOM v6.4 for routing and developing project as a Single Page Application. Used MaterialUI react component library to use elegantly designed production-ready components for faster development. 
+
+## How to use the code:
 
 ### `npm start`
 
