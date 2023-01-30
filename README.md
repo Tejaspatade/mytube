@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# MyTube
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a clone of our favorite video content website-Youtube. Fully Fledged with most of the features that youtube provides like search terms/channels/content creators using a searchbar, Play videos with all exact same video controls, Explore channels or browser thrpugh preset categories from the sidebar.
 
-## Available Scripts
+## Implementation Details
 
-In the project directory, you can run:
+Implemented Using React.js Library following all industry standard latest features and conventions such as functional components, hooks, props, etc. Used React-Router-DOM v6.4 for routing and developing project as a Single Page Application. Used MaterialUI react component library to use elegantly designed production-ready components for faster development. 
 
 ### `npm start`
 
